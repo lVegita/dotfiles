@@ -2,33 +2,42 @@
 
 !----------colors----------
 
-*.foreground:   #dcdcdc
-*.background:   #2f3243
-*.cursorColor:  #dcdcdc
+! special
+*.foreground:   #fefefe
+*.background:   #282828
+*.cursorColor:  #fefefe
+
 ! black
-*.color0:       #292b3a
-*.color8:       #9a9adb
+*.color0:       #1c1c1c
+*.color8:       #666666
+
 ! red
-*.color1:       #f58484
-*.color9:       #f58484
+*.color1:       #ff005b
+*.color9:       #ff00a0
+
 ! green
-*.color2:       #aff9c6
-*.color10:      #aff9c6
+*.color2:       #51e318
+*.color10:      #ccff00
+
 ! yellow
-*.color3:       #f3f4ab
-*.color11:      #f3f4ab
+*.color3:       #ffe755
+*.color11:      #ff9f00
+
 ! blue
-*.color4:       #a3d6f7
-*.color12:      #a3d6f7
+*.color4:       #048ac7
+*.color12:      #48c6ff
+
 ! magenta
-*.color5:       #f69dbf
-*.color13:      #f69dbf
+*.color5:       #833c9f
+*.color13:      #be67e1
+
 ! cyan
-*.color6:       #aff9f5
-*.color14:      #aff9f5
+*.color6:       #4effe7
+*.color14:      #0acdb3
+
 ! white
-*.color7:       #bacfdc
-*.color15:      #dcdcdc
+*.color7:       #e5e5e5
+*.color15:      #f3f3f3
 
 !----------urxvt----------
 
