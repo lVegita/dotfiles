@@ -6,6 +6,9 @@ filetype indent on      "enable filetype specific indention
 set shiftwidth=2        "set indent size to 2 spaces
 
 "user interface config
+let g:hybrid_custom_term_colors = 1
+set background=dark     "set background
+colorscheme hybrid      "set colorscheme
 set number              "show line numbers
 set relativenumber      "show line numbers relative to the cursor line
 set cursorline          "highliht current line
@@ -24,5 +27,5 @@ set smartcase           "case-sensitive IF uppercase used
 set incsearch           "jump to word as you type
 
 "user-defined commands
-"preview file in browser
-command Preview :!opera %<CR>
+"run file on browser
+command Run :!opera %<CR>
