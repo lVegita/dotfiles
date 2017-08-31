@@ -5,12 +5,12 @@
 ! colors based on collection/visibone-alt-2
 ! special
 *.foreground:   #FBFBFB
-*.background:   #333333
+*.background:   #232629
 *.cursorColor:  #cccccc
 
 ! black
-*.color0:       #666666
-*.color8:       #999999
+*.color0:       #414952
+*.color8:       #626E7A
 
 ! red
 *.color1:       #cc6699
@@ -57,4 +57,4 @@ rofi.lines:		9
 rofi.bw:		0
 rofi.opacity:		"10"
 rofi.hide-scrollbar:	true
-rofi.width:		30
+rofi.width:		15
