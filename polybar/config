@@ -26,7 +26,7 @@ transparent = #00000000
 
 [bar/main]
 width = 100%
-height = 25
+height = 23
 ;offset-x = 1%
 ;offset-y = 1% 
 radius = 0.0
@@ -41,10 +41,10 @@ foreground = ${colors.foreground}
 line-size = 2
 line-color = #f00
 
-;border-left = 20
-;border-right = 20
-;border-bottom = 0
-;border-color = ${colors.transparent}
+border-left = 400
+border-right = 400
+
+border-color = ${colors.transparent}
 
 padding-left = 2
 padding-right = 2
